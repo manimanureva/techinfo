@@ -1,0 +1,7 @@
+Zip folder Using 7zip
+---------------------
+7z a -tzip sampleHttpStatusCode.zip D:\pxlambda\sampleHttpStatusCode\*
+
+AWS CLI - Lambda Update Function
+--------------------------------
+aws lambda update-function-code --function-name sampleHttpStatusCode --zip-file fileb://D:\pxlambda\sampleHttpStatusCode.zip
