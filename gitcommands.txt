@@ -1,0 +1,55 @@
+git clone CloneURL <foldername here>
+
+git status - To get status 
+
+git branch  - To get the current branch
+
+ls - For listing the files
+
+cd  - For changing the directory
+
+git reset - To reset the previous operation
+
+git add -A  - To add all the files
+
+git commit -m "Message"
+
+vi .gitignore - To edit 
+
+vi .htaccess
+
+cp .htaccess  - To Copy
+
+cp .htaccess .sample - To Copy from source to destination
+
+cp settings.php settings.php.sample
+
+
+mv .sample .htaccess.sample    - To move from source to destination
+
+
+git push origin dev
+
+git pull origin dev
+
+
+ls -al   - To list the hidden files
+
+
+git config --global http.sslVerify false
+
+
+git add -A  - To add all the files
+
+git commit -m "Message"
+git push origin master
+
+git branch -a  To show all branch
+
+SSH-Public-Key generation
+
+https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
+
+
+https://www.guyrutenberg.com/2007/10/05/ssh-keygen-tutorial-generating-rsa-and-dsa-keys/
+
